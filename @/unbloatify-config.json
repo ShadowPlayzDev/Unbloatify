@@ -1,7 +1,7 @@
 {
   "routes": [
-    { "src": "/", "dest": "/root/public/index.html" },
-    { "src": "/script", "dest": "/root/public/script/script.ps1" },
-    { "src": "/script/bloatedApps", "dest": "/root/public/script/bloatApps.json" }
+    { "src": "/", "dest": "/@/public/index.html" },
+    { "src": "/script", "dest": "/@/public/script/script.ps1" },
+    { "src": "/script/bloatedApps", "dest": "/@/public/script/bloatApps.json" }
   ]
 }
